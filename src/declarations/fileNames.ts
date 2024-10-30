@@ -2,6 +2,8 @@
 export const fileNames = {
 	'angular-cli.json': '_file_angular',
 	'bower.json': '_file_bower',
+	'biome.json': '_file_biome',
+	'biome.jsonc': '_file_biome',
 	license: '_file_license',
 	LICENSE: '_file_license',
 	'license.txt': '_file_license',
